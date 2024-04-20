@@ -1,4 +1,4 @@
-**Alexa Device Identifier End User License Agreement (EULA)**
+_**Alexa Device Identifier_ End User License Agreement (EULA)**
 
 **Grant of License**
 This Agreement entitles you to install and use one copy of the _**Alexa Device Identifier**_. This Agreement does not permit the installation or use on more than one Alexa account or device at a time.
