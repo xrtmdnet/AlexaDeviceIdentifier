@@ -3,7 +3,7 @@ Instructions as well as [Privacy](https://github.com/xrtmdnet/AlexaDeviceIdentif
 ## Instructions
 Below are the instructions for activation  and use of the _**Alexa Device Identifier**_. 
 ### Invocation
-Invoke the app by saying, "_Alexa, Identify Device_" 
+Invoke the app by saying, "_Alexa, Open Identify Device_" or "_Alexa, Open Identify_"
 ### Phrases
 Identify the assigned name of your Alexa device with any of the following phrases:
 - "Device Name"
