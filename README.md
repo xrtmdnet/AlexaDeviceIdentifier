@@ -1,9 +1,9 @@
 # Alexa Device Identifier
-Instructions as well as Privacy, License, Developer and other policies related to the Alexa Device Identifier App  
+Instructions as well as Privacy, License, Developer and other policies related to the _**Alexa Device Identifier**_ App  
 ## Instructions
-Below are the instructions for activation  and using the Alexa Device Identifier.  Note that in cases where your activation word is other than "Alexa", this s
+Below are the instructions for activation  and use of the _**Alexa Device Identifier**_. 
 ### Invocation
-Invoke the app by saying, "__Alexa, Identify Device__" 
+Invoke the app by saying, "_Alexa, Identify Device_" 
 ### Phrases
 Identify the assigned name of your Alexa device with any of the following phrases:
 - "Device Name"
