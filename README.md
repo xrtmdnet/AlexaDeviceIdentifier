@@ -6,10 +6,10 @@ Alexa,
 ### Phrases
 *Device Name
 
-*What's your device name
+**What's your device name
 
-*What is your device name
+**What is your device name
 
-*What's your device called
+**What's your device called
 
-*What is your device called
+**What is your device called
