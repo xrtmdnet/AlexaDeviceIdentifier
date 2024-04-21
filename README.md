@@ -1,5 +1,5 @@
 # Alexa Device Identifier
-Instructions as well as Privacy, License, Developer and other policies related to the _**Alexa Device Identifier**_ App  
+Instructions as well as [Privacy](https://github.com/xrtmdnet/AlexaDeviceIdentifier/blob/main/PrivacyPolicy.md), License, Developer and other policies related to the _**Alexa Device Identifier**_ App  
 ## Instructions
 Below are the instructions for activation  and use of the _**Alexa Device Identifier**_. 
 ### Invocation
